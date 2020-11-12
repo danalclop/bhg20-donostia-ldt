@@ -2,7 +2,7 @@ Language,Participant,Occurency_order,Item,Consistency,Cons_level,Lexicality,Accu
 French,101,1,Fr_inc_sabot-fateau.wav,inc,NA,pseudoword,1,1485,1.057242151,0
 French,101,2,Fr_inc_phare.wav,inc,NA,word,1,1100,1.013797562,0
 French,101,3,Fr_con_roulade-bounade.wav,con,NA,pseudoword,1,1042,1.005955906,0
-French,101,4,Fr_inc3_foret.wav,inc,3,word,1,907,0.985869096,0
+French,101,4,Fr_inc3_foret.wav,inc,3,word,1,907,0.985869096,0, invalid
 French,101,5,Fr_inc_pharmacie.wav,inc,NA,word,1,1028,1.003997705,0
 French,101,6,Fr_inc_cote-soche.wav,inc,2,pseudoword,1,1255,1.032881242,0
 French,101,7,Fr_inc2_cible.wav,inc,2,word,1,983,0.997517839,0
@@ -13,6 +13,7 @@ French,101,11,Fr_con_preuve-vreune.wav,con,NA,pseudoword,1,1225,1.029378696,0
 French,101,12,Fr_inc2_sapin.wav,inc,2,word,1,845,0.975618903,0
 French,101,13,Fr_inc_quatre-sadre.wav,inc,NA,pseudoword,0,1155,1.020860661,1
 French,101,14,Fr_con_don.wav,con,NA,word,0,1505,1.059178833,0
+French,101,15,Fr_inc2_cote.wav,inc,2,word,1,1626,1.070373514,0
 French,101,15,Fr_inc2_cote.wav,inc,2,word,1,1626,1.070373514,0
 French,101,16,Fr_con_larme-parde.wav,con,0,pseudoword,1,1089,1.012342627,0
 French,101,17,Fr_con_drame-brane.wav,con,0,pseudoword,1,1291,1.036975414,0
